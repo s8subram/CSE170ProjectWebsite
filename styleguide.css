@@ -1,0 +1,6 @@
+:root {
+  --variable-collection-pushnotificationsenabled: initial;
+  --variable-collection-pushnotificationsdisabled: none;
+  --variable-collection-eventscheduled: none;
+  --variable-collection-gymselected: 0px;
+}
